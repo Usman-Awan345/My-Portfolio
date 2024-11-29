@@ -1190,6 +1190,9 @@ footer{
         .img-hero img {
             width: 300px;
             height: auto;
+            position: relative;
+            padding-top: 30px;
+            left: 18px;
         }
     
         .rotate-text {
